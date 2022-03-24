@@ -1,0 +1,53 @@
+body{
+    background-color: black;;
+}
+
+#container{
+    float:right;
+     width: 50%;
+     margin-top: 50px;
+}
+
+#hey{
+    margin-top: 50px;
+    
+}
+
+.naruto{
+    position: absolute;
+  left: 150px;
+  width: 200px;
+  height: 120 px;
+  
+}
+button{
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 50%;
+    opacity: 0.9;
+    padding: 15px;
+  }
+  button:hover{
+    opacity: 1;
+  }
+  input{
+    width: 50%;
+  text-align: center;
+  
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1 ;
+    background-color: #ffddcc;
+  }
+  input:focus{
+    background-color: #ddd;
+    outline: none;}
+    
+#left{
+   color: #ddd;
+   margin: 20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
